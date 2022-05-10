@@ -1,0 +1,29 @@
+#SOAL 1 TEST CASE 1 
+#Mencoba mencari Luas Trapesium
+#Diketahui:
+#Alas atas = AA = 20
+#Alas bawah = AB = 40
+#Tinggi = T = 10
+#Jawab
+#Luas Trapesium = 0.5 * (AA + AB) * T
+AA = int(input("Masukan alas atas : "))
+AB = int(input("Masukan alas bawah : "))
+T = int(input("Masukan tinggi : "))
+L = 0.5 * (AA + AB) * T
+#Mencetak Jawaban dari Luas Trapesium
+print ("Luas trapesium adalah :" ,L)
+
+#SOAL 1 TEST CASE 2
+#Mencoba mencari Luas Trapesium
+#Diketahui:
+#Alas atas = AA = 15
+#Alas bawah = AB = 40
+#Tinggi = T = 15
+#Jawab
+#Luas Trapesium = 0.5 * (AA + AB) * T
+AA = int(input("Masukan alas atas : "))
+AB = int(input("Masukan alas bawah : "))
+T = int(input("Masukan tinggi : "))
+L = 0.5 * (AA + AB) * T
+#Mencetak Jawaban dari Luas Trapesium
+print ("Luas trapesium adalah :" ,L)
