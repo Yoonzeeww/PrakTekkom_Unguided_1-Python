@@ -1,0 +1,14 @@
+#Membuat sebuah program perhitungan deret geometri
+#Diketahui
+#n = 11(Nilai suku)
+#a = 1(Suku pertama)
+#r = 3(Rasio)
+n = 11
+a = 1
+r = 3
+#Jawab
+#Rumus mencari U11
+#Un = a*r**(n-1)
+un = a*r**(n-1)
+#mencetak hasil dari U11
+print("hasil dari U11", un)
